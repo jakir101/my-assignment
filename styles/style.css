@@ -63,10 +63,17 @@ h3{
 }
 .flower-img{
     height: 250px;
-    width: 200px;
+    width: 250px;
     margin-left: 10px;
     background-color: rgb(238, 154, 154);
-    padding-top: 50px;
-    border-radius: 100px 100px 0 0;
+    padding-top: 70px;
+    padding-left: 50px;
+    border-radius: 150px 150px 0 0;
 
+}
+.pink-flower{
+    color: #272727;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
 }
