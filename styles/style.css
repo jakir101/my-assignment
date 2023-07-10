@@ -1,4 +1,25 @@
-*{
+* {
     margin: 0;
     padding: 0;
+}
+
+/* header section style */
+header {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-between;
+    align-items: center;
+    background-size: 100vh;
+}
+
+.header-title{
+    padding-left: 140px;
+    max-width: 300px;
+}
+
+.banner-img {
+    width: 400px;
+    height: 500px;
+    padding-top: 60px;
+    padding-right: 200px;
 }
