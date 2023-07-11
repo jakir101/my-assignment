@@ -64,11 +64,10 @@ h3{
 .flower-img{
     height: 250px;
     width: 250px;
-    margin-left: 10px;
-    background-color: rgb(238, 154, 154);
+
     padding-top: 70px;
     padding-left: 50px;
-    border-radius: 150px 150px 0 0;
+    
 
 }
 .pink-flower{
@@ -76,4 +75,21 @@ h3{
     text-align: center;
     font-size: 18px;
     font-weight: 700;
+    margin-top: 10px;
+}
+.section-img-1{
+    background-color: #A7216226;
+    border-radius: 150px 150px 0 0;
+}
+.section-img-2{
+    background-color: #A7216226;
+    border-radius: 150px 150px 0 0;
+    margin-left: 10px;
+    border-color: #0597A026;
+}
+.section-img-3{
+    background-color: #A7216226;
+    border-radius: 150px 150px 0 0;
+    margin-left: 10px;
+    background-color: #477D1126;
 }
