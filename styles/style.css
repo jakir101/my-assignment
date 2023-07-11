@@ -135,3 +135,16 @@ h3 {
 .discount-offer{
     text-align: center;
 }
+/* images gallary style */
+.img-gallary{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gellary-flwer-img{
+    margin: 10px 10px;
+    width: 250px;
+}
