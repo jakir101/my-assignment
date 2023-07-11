@@ -12,20 +12,20 @@ header {
     background-size: 100vh;
 }
 
-h1{
+h1 {
     font-size: 40px;
     color: #272727;
     font-weight: 800;
 }
 
-.paragraph-description{
+.paragraph-description {
     font-size: 16px;
     padding-bottom: 10px;
     font-weight: 400;
     color: #27272799;
 }
 
-.header-title{
+.header-title {
     padding-left: 140px;
     max-width: 300px;
 }
@@ -36,8 +36,9 @@ h1{
     padding-top: 60px;
     padding-right: 200px;
 }
-.primary-btn{
-    background-color: #f0257994 ;
+
+.primary-btn {
+    background-color: #f0257994;
     padding: 16px 32px;
     border: 0;
     border-radius: 10px;
@@ -47,49 +48,73 @@ h1{
 }
 
 /* section images styles */
-h3{
+h3 {
     color: #272727;
     font-size: 30px;
     font-weight: 800;
     padding-bottom: 10px;
 }
-.our-featured{
+
+.our-featured {
     text-align: center;
     padding-top: 150px;
 }
-.images-area{
+
+.images-area {
     display: flex;
     justify-content: center;
 }
-.flower-img{
+
+.flower-img {
     height: 250px;
     width: 250px;
 
     padding-top: 70px;
     padding-left: 50px;
-    
+
 
 }
-.pink-flower{
+
+.pink-flower {
     color: #272727;
     text-align: center;
     font-size: 18px;
     font-weight: 700;
     margin-top: 10px;
 }
-.section-img-1{
+
+.section-img-1 {
     background-color: #A7216226;
     border-radius: 150px 150px 0 0;
 }
-.section-img-2{
+
+.section-img-2 {
     background-color: #A7216226;
     border-radius: 150px 150px 0 0;
     margin-left: 10px;
     border-color: #0597A026;
 }
-.section-img-3{
+
+.section-img-3 {
     background-color: #A7216226;
     border-radius: 150px 150px 0 0;
     margin-left: 10px;
     background-color: #477D1126;
+}
+
+/* support icon styles */
+
+.support-area {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    max-width: 80%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    margin-bottom: 100px;
+
 }
